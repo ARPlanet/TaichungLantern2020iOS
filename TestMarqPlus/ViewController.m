@@ -59,7 +59,7 @@
     }
     else
     {
-        NSURL *url = [NSURL URLWithString:[NSString stringWithFormat: @"https://itunes.apple.com/us/app/apple-store/id681758165?mt=8"]];
+        NSURL *url = [NSURL URLWithString:[NSString stringWithFormat: @"https://rd.arplanets.com/redirect?ac=taichunglantern2020"]];
         [[UIApplication sharedApplication] openURL:url];
     }
 }
